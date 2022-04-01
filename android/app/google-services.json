@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312550535497",
+    "project_id": "rmcompetitor-3e289",
+    "storage_bucket": "rmcompetitor-3e289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312550535497:android:1ce493fe147344cc0aaa98",
+        "android_client_info": {
+          "package_name": "com.competitor.competitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312550535497-nn7av2ld9lqfvphikbrq9ukfhepr07f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCn3KPv7ICGJCB1vYmnKjmZAEw-DNpZbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312550535497-nn7av2ld9lqfvphikbrq9ukfhepr07f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
